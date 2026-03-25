@@ -1,9 +1,15 @@
+/*
 const express = require('express');
 const bodyParser = require('body-parser');
 const cors = require('cors');
 const swaggerJsdoc = require('swagger-jsdoc');
 const swaggerUi = require('swagger-ui-express');
-
+*/
+import express from "express";
+import bodyParser from "body-parser";
+import cors from "cors";
+import swaggerJsdoc from "swagger-jsdoc";
+import swaggerUi from "swagger-ui-express"
 const app = express();
 const PORT = 3001;
 
