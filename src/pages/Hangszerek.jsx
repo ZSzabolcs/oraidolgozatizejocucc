@@ -48,3 +48,5 @@ function Hangszerek(){
         </>
     )
 }
+
+export default Hangszerek
